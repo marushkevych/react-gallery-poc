@@ -1,5 +1,5 @@
 {
-  "name": "react-biolerplate",
+  "name": "react-gallery-poc",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -51,5 +51,13 @@
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-hot-loader": "^4.6.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marushkevych/react-gallery-poc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marushkevych/react-gallery-poc/issues"
+  },
+  "homepage": "https://github.com/marushkevych/react-gallery-poc#readme"
 }
